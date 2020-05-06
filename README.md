@@ -1,5 +1,5 @@
 # some-translations-of-answers
-##1.about structured-clonable-type
+## 1.about structured-clonable-type
 Actually found the answer right away, it's in the docs. You basically can't have a Function-type property (which probably is there somewhere inside the io() object) because it can't be cloned:
 
 Parameters
